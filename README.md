@@ -1,2 +1,0 @@
-# terraformscripts
-only terrafor scripts
